@@ -6,11 +6,13 @@ Tema do Projeto: Aplicativo Uber ou similar
 Deve ser desenvolvido pelo menos 4 classes, sendo sugerida as classes motorista, passageiro, viagem e calculadora de tarifa.
 Devem ser aplicado, pelo menos uma vez, cada uma das seguintes técnicas de POO:
 
+<pre>
 ✔️Encapsulamento;
 ✔️Herança;
 ✔️Polimorfismo;
 ✔️Classe Abstrata;
 ✔️Interface;
 ✔️Exception.
+</pre>
 
 https://github.com/VictorKashima/P2-Java
